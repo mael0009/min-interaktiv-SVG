@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="kort" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1255 824">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <g id="Layer_1">
+    <g id="bgr">
+      <image width="1255" height="824" xlink:href="københavn-kort-1.png" isolation="isolate"/>
+    </g>
+  </g>
+  <g id="Layer_2">
+    <g id="poi">
+      <circle id="Fælledparken" cx="505.3" cy="93.7" r="14.5" fill="#ed0c0c"/>
+      <circle id="Nørrebro" cx="76.6" cy="29.4" r="14.5" fill="#ed0c0c"/>
+    </g>
+  </g>
+</svg>
